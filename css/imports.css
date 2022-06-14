@@ -1,3 +1,7 @@
+@import "./global.css";
+
 @import "./menu.css";
+@import "./animais.css";
+@import "./faq.css";
 
 @import "./componentes.css";
