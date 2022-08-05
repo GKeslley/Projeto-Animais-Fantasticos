@@ -1,0 +1,15 @@
+@import "./global.css";
+
+@import "./menu.css";
+@import "./animais.css";
+@import "./faq.css";
+@import "./contato.css";
+
+@import "./animacoes/modal.css";
+@import "./animacoes/tooltip.css";
+@import "./animacoes/dropdown-menu.css";
+@import "./animacoes/menu-mobile.css";
+@import "./animacoes/numeros.css";
+@import "./animacoes/horarioAberto.css";
+
+@import "./componentes.css";
