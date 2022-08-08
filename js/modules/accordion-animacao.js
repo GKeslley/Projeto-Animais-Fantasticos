@@ -20,5 +20,6 @@ export default class Accordion {
       this.accordionToggle(this.accordionList[0]);
       this.addAcorddionEvent();
     }
+    return this;
   }
 }
