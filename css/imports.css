@@ -11,5 +11,6 @@
 @import "./animacoes/menu-mobile.css";
 @import "./animacoes/numeros.css";
 @import "./animacoes/horarioAberto.css";
+@import "./animacoes/slide.css";
 
 @import "./componentes.css";
